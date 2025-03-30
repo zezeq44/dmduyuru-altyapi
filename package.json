@@ -1,0 +1,31 @@
+{
+  "name": "dmduyuru-altyapi",
+  "version": "1.0.0",
+  "description": "Discord.js v14",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "zeze.q",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "14.11.0",
+    "@discordjs/builders": "1.6.3",
+    "@discordjs/rest": "1.7.1",
+    "discord-api-types": "0.37.42",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
